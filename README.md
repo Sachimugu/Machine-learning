@@ -2,7 +2,7 @@
 
 This repo contain machine learning projects
 
-### project 1: Multiple Linear Regression Model
+### Project 1: Multiple Linear Regression Model
 
 Using Multiple Linear Regression model to predict the consumption of fuel by a car.
 
