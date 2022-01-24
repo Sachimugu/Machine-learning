@@ -10,7 +10,7 @@ The data set was downloaded from this website :- https://vincentarelbundock.gith
 
 This project was done to implement my learnings about the machine learning algorithms.
 
-output:![Test Image 1](output)
+output:![Test Image 1](https://www.dropbox.com/s/k0uirl2iu2akm6z/output?dl=0)
 
 Any kind of insights and changes are highly appreciated.
 
