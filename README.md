@@ -1,9 +1,8 @@
-## Project Details
+# Project Details
 
 This repo contain machine learning projects
 
-
-### Multiple Linear Regression Model
+## Multiple Linear Regression Model
 Using Multiple Linear Regression model to predict the consumption of fuel by a car.
 
 The data set was downloaded from this website :- https://vincentarelbundock.github.io/Rdatasets/datasets.html
@@ -13,7 +12,7 @@ This project was done to implement my learnings about the machine learning algor
 ![output](https://user-images.githubusercontent.com/90661230/150852731-bbd62fbb-3219-4ded-ba33-a41bac52d62e.png)
 
 
-### Logistic Regression
+## Logistic Regression
 
 In statistics, the Logistic Regression model is a widely used statistical model which is primarily used for classification purposes. It means that given a set of observations, Logistic Regression algorithm helps us to classify these observations into two or more discrete classes. So, the target variable is discrete in nature.
 
