@@ -53,7 +53,8 @@ Support Vector Machine or SVM is one of the most popular Supervised Learning alg
 
 The goal of the SVM algorithm is to create the best line or decision boundary that can segregate n-dimensional space into classes so that we can easily put the new data point in the correct category in the future. This best decision boundary is called a hyperplane
 
-image
+![svm](https://user-images.githubusercontent.com/90661230/154235807-f51c9506-3017-4369-9134-b2192507e71f.png)
+
 
 Linear SVM: Linear SVM is used for linearly separable data, which means if a dataset can be classified into two classes by using a single straight line, then such data is termed as linearly separable data, and classifier is used called as Linear SVM classifier.
 Non-linear SVM: Non-Linear SVM is used for non-linearly separated data, which means if a dataset cannot be classified by using a straight line, then such data is termed as non-linear data and classifier used is called as Non-linear SVM classifier
@@ -70,4 +71,4 @@ The Python implementation is presented in the Jupyter notebook
 
 The Decision tree model accuracy score is  0.8 and 10-fold cross validation average accuracy: 0.8.So, the model does a very good job in predicting whether or not a passenger will survive or not.
 
-refrence : [Moro et al., 2014] S. Moro, P. Cortez and P. Rita. A Data-Driven Approach to Predict the Success of Bank Telemarketing. Decision Support Systems, In press, http://dx.doi.org/10.1016/j.dss.2014.03.001
+Refrence : [Moro et al., 2014] S. Moro, P. Cortez and P. Rita. A Data-Driven Approach to Predict the Success of Bank Telemarketing. Decision Support Systems, In press, http://dx.doi.org/10.1016/j.dss.2014.03.001
