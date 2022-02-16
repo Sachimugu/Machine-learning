@@ -45,3 +45,29 @@ The Python implementation is presented in the Jupyter notebook
 **Result**
 
 The Decision tree model accuracy score is  0.83 and 10-fold cross validation average accuracy: 0.79.So, the model does a very good job in predicting whether or not a passenger will survive or not.
+
+
+## 3. Support Vector Machine Algorithm
+
+Support Vector Machine or SVM is one of the most popular Supervised Learning algorithms, which is used for Classification as well as Regression problems. However, it is primarily used for Classification problems in Machine Learning.
+
+The goal of the SVM algorithm is to create the best line or decision boundary that can segregate n-dimensional space into classes so that we can easily put the new data point in the correct category in the future. This best decision boundary is called a hyperplane
+
+image
+
+Linear SVM: Linear SVM is used for linearly separable data, which means if a dataset can be classified into two classes by using a single straight line, then such data is termed as linearly separable data, and classifier is used called as Linear SVM classifier.
+Non-linear SVM: Non-Linear SVM is used for non-linearly separated data, which means if a dataset cannot be classified by using a straight line, then such data is termed as non-linear data and classifier used is called as Non-linear SVM classifier
+
+**Problem Statement**
+
+In this projecct, The  dataset used is based on "Bank Marketing" UCI dataset (please check the description at: http://archive.ics.uci.edu/ml/datasets/Bank+Marketing).The data is enriched by the addition of five new social and economic features/attributes (national wide indicators from a ~10M population country), published by the Banco de Portugal and publicly available at: https://www.bportugal.pt/estatisticasweb.This dataset is almost identical to the one used in [Moro et al., 2014] (it does not include all attributes due to privacy concerns). 
+
+I try to classify weather or not client will a subscribe to a term deposit?./n  To do this, I used the SVM classifer.
+The Python implementation is presented in the Jupyter notebook
+
+
+**Result**
+
+The Decision tree model accuracy score is  0.8 and 10-fold cross validation average accuracy: 0.8.So, the model does a very good job in predicting whether or not a passenger will survive or not.
+
+refrence : [Moro et al., 2014] S. Moro, P. Cortez and P. Rita. A Data-Driven Approach to Predict the Success of Bank Telemarketing. Decision Support Systems, In press, http://dx.doi.org/10.1016/j.dss.2014.03.001
