@@ -47,7 +47,7 @@ The Python implementation is presented in the Jupyter notebook
 The Decision tree model accuracy score is  0.83 and 10-fold cross validation average accuracy: 0.79.So, the model does a very good job in predicting whether or not a passenger will survive or not.
 
 
-## 3. Support Vector Machine Algorithm
+## 4. Support Vector Machine Algorithm
 
 Support Vector Machine or SVM is one of the most popular Supervised Learning algorithms, which is used for Classification as well as Regression problems. However, it is primarily used for Classification problems in Machine Learning.
 
@@ -72,3 +72,11 @@ The Python implementation is presented in the Jupyter notebook
 The Decision tree model accuracy score is  0.8 and 10-fold cross validation average accuracy: 0.8.So, the model does a very good job in predicting whether or not a passenger will survive or not.
 
 Refrence : [Moro et al., 2014] S. Moro, P. Cortez and P. Rita. A Data-Driven Approach to Predict the Success of Bank Telemarketing. Decision Support Systems, In press, http://dx.doi.org/10.1016/j.dss.2014.03.001
+
+
+
+## 5. Random Forest.
+Random forest classifiers fall under the broad umbrella of ensemble-based learning methods. They are simple to implement, fast in operation, and have proven to be extremely successful in a variety of domains. The key principle underlying the random forest approach comprises the construction of many “simple” decision trees in the training stage and the majority vote (mode) across them in the classification stage. Among other benefits, this voting strategy has the effect of correcting for the undesirable property of decision trees to overfit training data.
+
+Random Forest was efficiently used predict the disease of a human, based on the symptoms that he/she posses.
+steps invovled were: Gathering of data at <a href='https://www.kaggle.com/kaushil268/disease-prediction-using-machine-learning'>kagel</a>, Cleaning the Data, Model Building, and Evaluation
