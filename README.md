@@ -78,5 +78,7 @@ Refrence : [Moro et al., 2014] S. Moro, P. Cortez and P. Rita. A Data-Driven App
 ## 5. Random Forest.
 Random forest classifiers fall under the broad umbrella of ensemble-based learning methods. They are simple to implement, fast in operation, and have proven to be extremely successful in a variety of domains. The key principle underlying the random forest approach comprises the construction of many “simple” decision trees in the training stage and the majority vote (mode) across them in the classification stage. Among other benefits, this voting strategy has the effect of correcting for the undesirable property of decision trees to overfit training data.
 
+![rf](https://user-images.githubusercontent.com/90661230/154436124-4bc58163-47bf-4819-871e-242128bb659a.png)
+
 Random Forest was efficiently used predict the disease of a human, based on the symptoms that he/she posses.
 Steps invovled were: Gathering of data at <a href='https://www.kaggle.com/kaushil268/disease-prediction-using-machine-learning'>kagel</a>, Cleaning the Data, Model Building, and Evaluation
