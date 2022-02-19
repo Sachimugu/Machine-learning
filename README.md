@@ -80,3 +80,4 @@ Random forest classifiers fall under the broad umbrella of ensemble-based learni
 
 Random Forest was efficiently used predict the disease of a human, based on the symptoms that he/she posses.
 steps invovled were: Gathering of data at <a href='https://www.kaggle.com/kaushil268/disease-prediction-using-machine-learning'>kagel</a>, Cleaning the Data, Model Building, and Evaluation
+
