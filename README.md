@@ -85,11 +85,11 @@ Steps invovled were: Gathering of data at <a href='https://www.kaggle.com/kaushi
 
 
 
-## 5. Naïve Bayes.
+## 6. Naïve Bayes.
 
 Naïve Bayes is a probabilistic machine learning algorithm based on the Bayes Theorem, used in a wide variety of classification tasks.It has been successfully used for many purposes, but it works particularly well with natural language processing (NLP) problems.
 
-![rf](https://user-images.githubusercontent.com/90661230/154436124-4bc58163-47bf-4819-871e-242128bb659a.png)
+![bayes](https://user-images.githubusercontent.com/90661230/154813113-e3d32c83-4d4a-4bbf-ab55-376898d9b204.png)
 
 Bayes’ Theorem is a simple mathematical formula used for calculating conditional probabilities.
 Conditional probability is the probability of an event happening, given that it has some relationship to one or more other events. For example, your probability of getting a parking space is connected to the time of day you park, where you park, and what conventions are going on at any time. Bayes’ theorem is slightly more nuanced. In a nutshell, it gives you the actual probability of an event given information about tests.
@@ -105,5 +105,6 @@ Conditional probability is the probability of an event happening, given that it 
  5. Model evalution 
 
 **Result**
+
 Naïve Bayes did well with the dataset with an acurracy score of 99%
  
