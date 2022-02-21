@@ -112,6 +112,8 @@ Naïve Bayes did well with the dataset with an acurracy score of 99%
 # 7. K-means-Clustering.
 K-means clustering is one of the simplest and popular unsupervised machine learning algorithms.A cluster refers to a collection of data points aggregated together because of certain similarities.
 
+![kmean](https://user-images.githubusercontent.com/90661230/155019374-ae1f5f3d-a000-4bd6-b32f-b597e3a8ec31.png)
+
 This machine learning project looks at implementing the KMeans clustering algorithm on the wine quality dataset. 
 The elbow method is used to find the optimum number of clusters. 
 Principle component analysis  (PCA) is used to reduce the dimensionality of the data
