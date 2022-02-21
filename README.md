@@ -107,4 +107,14 @@ Conditional probability is the probability of an event happening, given that it 
 **Result**
 
 Naïve Bayes did well with the dataset with an acurracy score of 99%
+
+
+# 7. K-means-Clustering.
+K-means clustering is one of the simplest and popular unsupervised machine learning algorithms.A cluster refers to a collection of data points aggregated together because of certain similarities.
+
+This machine learning project looks at implementing the KMeans clustering algorithm on the wine quality dataset. 
+The elbow method is used to find the optimum number of clusters. 
+Principle component analysis  (PCA) is used to reduce the dimensionality of the data
+The dataset used for this project is available on kaggle and on UCI ML repository. 
+
  
