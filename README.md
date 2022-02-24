@@ -117,6 +117,15 @@ K-means clustering is one of the simplest and popular unsupervised machine learn
 This machine learning project looks at implementing the KMeans clustering algorithm on the wine quality dataset. 
 The elbow method is used to find the optimum number of clusters. 
 Principle component analysis  (PCA) is used to reduce the dimensionality of the data
-The dataset used for this project is available on kaggle and on UCI ML repository. 
+The dataset used for this project is available on kaggle and on UCI ML repository.
+
+## 8. K Nearest Neigbours.
+K-nearest neighbors (KNN) is a type of supervised learning algorithm used for both regression and classification. KNN tries to predict the correct class for the test data by calculating the distance between the test data and all the training points. Then select the K number of points which is closet to the test data. The distance can be calculated using the eculidean or manhattan Distance.
+
+**Problem**
+In this project I try build the knn algorithm from scratch in python and compare it performance with sklearn knn on the iris dataset. The algorithm is contained in the **knn.py** and notebook in **knn.ipynb**. 
+
+**Result**
+The built algorithm had an accuracy score of 93% on the iris dataset while the sklearn knn had a 100% accuracy score. its not bad, its expected. The bulit algorihm had about 70 lines of code while the sklearn knn algorithm had 1000 line of code.
 
  
