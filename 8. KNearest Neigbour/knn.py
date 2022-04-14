@@ -50,7 +50,7 @@ class Knn():
                 
         return neigbour_list
         
-        
+    #predicti single test point   
     def predict(self, X_train, X_test):
         
         neigbours = self.nearestN(X_train, X_test)
@@ -63,7 +63,8 @@ class Knn():
         predicted = mode(labels)
         
         return predicted
-        
+
+    #predict multiple test point   
     def predictAll(self, X_train, X_test):
         Alabels= []
         #X_train = X_train.to_numpy()
